@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="question1">Uhuru is not president of Kenya.</string>
+    <string name="question2">Mucheru is the CS for ICT.</string>
+    <string name="question3">Raile is the president of kenya.</string>
+    <string name="question4">Uganda is a landlocked country.</string>
+    <string name="question5">Trump is the president of USA.</string>
+    <string name="question6">Kenya gained independence in 1963.</string>
+    <string name="CorrectAnswer">This is correct</string>
+    <string name="wrongAnswer">This is wrong.</string>
+
+</resources>
